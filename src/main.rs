@@ -1,4 +1,4 @@
-// TODO: Since we are using postfix notation only, we can
+// TODO: Since we are using prefix notation only, we can
 // get rid of semicolons(i think)
 
 fn main() {
